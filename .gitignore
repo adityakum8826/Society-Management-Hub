@@ -1,0 +1,45 @@
+venv/
+.idea/
+*.pyc
+__pycache__/
+.streamlit/
+*.h2.db
+.env
+
+# Environments
+
+env/
+.venv/
+
+# PyCharm & IDEs
+
+.vscode/
+
+# Python Cache & Bytecode
+
+*.pyo
+*.pyd
+
+
+
+# Environment Variables & Secrets
+
+*.env
+config.ini
+
+# Databases
+
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# Uploaded Files & Local Data (Crucial for your Resident Portal!)
+uploads/
+data/
+temp/
+
+# OS Specific Files
+.DS_Store
+Thumbs.db
